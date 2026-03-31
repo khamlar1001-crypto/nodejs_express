@@ -9,5 +9,5 @@ app.get('/',(req,res)=>{
 
 
 app.listen(port,()=>{
-    console.log("Running in",port);
+    console.log("Running in 3000",port);
 });
